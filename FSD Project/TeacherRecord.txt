@@ -1,0 +1,5 @@
+T001:Eswar:Class 10:Section A
+T002:Eswarayya:Class 9:Section A
+T003:Ayya:Class 8:Section B
+T004:Bhanu:Class 7:Section C
+T005:Priya:Class 8:Section C
